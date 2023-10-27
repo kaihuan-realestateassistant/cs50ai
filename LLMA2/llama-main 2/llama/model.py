@@ -1,6 +1,6 @@
 # Copyright (c) Meta Platforms, Inc. and affiliates.
 # This software may be used and distributed according to the terms of the Llama 2 Community License Agreement.
-
+# 用于各种自然语言处理 (NLP) 任务，例如文本分类、机器翻译和语言建模
 import math
 from dataclasses import dataclass
 from typing import Optional, Tuple
